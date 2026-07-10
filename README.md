@@ -2,6 +2,10 @@
 
 本地优先的 GitHub Star 分类索引站点。展示已归档仓库，支持关键词搜索、分类筛选、按兴趣分或 GitHub Star 排序，以及浏览器本地置顶。
 
+## 项目截图
+
+![StarForge 页面截图](images/ScreenShot_2026-07-10_232413_149.png)
+
 ## 技术栈
 
 - React 19 + Next.js 16 App Router
